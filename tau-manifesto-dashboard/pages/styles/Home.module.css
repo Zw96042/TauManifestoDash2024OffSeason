@@ -1,0 +1,10 @@
+/* styles/Home.module.css */
+.container {
+    height: 100vh;
+  }
+  
+  .main {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+  }
